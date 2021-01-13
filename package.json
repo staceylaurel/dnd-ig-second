@@ -20,6 +20,10 @@
     "@types/express": "^4.17.9",
     "@types/jsonwebtoken": "^8.5.0",
     "@types/morgan": "^1.9.2",
+<<<<<<< HEAD
+=======
+    "@types/mysql": "^2.15.17",
+>>>>>>> server commit
     "@types/node": "^14.14.20",
     "@types/passport-jwt": "^3.0.3",
     "@types/passport-local": "^1.0.33",
@@ -36,6 +40,10 @@
     "helmet": "^4.3.1",
     "jsonwebtoken": "^8.5.1",
     "morgan": "^1.10.0",
+<<<<<<< HEAD
+=======
+    "mysql": "^2.18.1",
+>>>>>>> server commit
     "node-sass": "^4.14.1",
     "passport": "^0.4.1",
     "passport-jwt": "^4.0.0",

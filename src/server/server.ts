@@ -5,7 +5,11 @@ import * as cors from 'cors';
 import * as passport from 'passport';
 import routes from './routes';
 
+<<<<<<< HEAD
 import './middlewares/passport-strategies';
+=======
+// import './middlewares/passport-strategies';
+>>>>>>> server commit
 
 const app = express();
 
